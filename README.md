@@ -1,1 +1,1 @@
-My first readme
+- 👍The Journey Begins
